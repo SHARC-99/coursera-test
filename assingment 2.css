@@ -1,0 +1,39 @@
+h1
+{text-align: center;
+margin-bottom: 70px;
+}
+div
+{
+	width:460px;
+	border: solid;
+background: grey;
+margin: 20px;
+float: left;
+
+}
+
+ .chicken
+ {background:pink;}
+.beef{background: red;}
+.sushi{background: yellow;}
+h2
+{
+	margin: 0;
+	padding: 0px;
+	text-align: center;
+	width: 100px;
+	height: 30px;
+	border: 2px solid black;
+	border-top: 1px;
+	border-right: 1px;
+	float: right;
+	}
+
+
+
+
+
+
+
+
+
